@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**olivergottberg/olivergottberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hej, jag är Oliver!  
+## Systemvetarstudent vid Uppsala Universitet | Software Engineering @ Uppsala University
 
-Here are some ideas to get you started:
+🎓 Studerar systemvetenskap vid Uppsala universitet, Campus Gotland  
+💡 Intresserad av Java, .NET och databaser  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Mina projekt  
+🔹 **[Miljöboven](https://github.com/dittrepo)** – .NET-applikation för miljöbrottsanmälan  
+🔹 **[Chatapplikation](https://github.com/dittrepo)** – Chatapplikation som utvecklats med designmönster
+🔹 **[SQL](https://github.com/dittrepo)** – SQL
+🔹 **[Java](https://github.com/dittrepo)** – Väderapplikation
+
+### 📫 Kontakta mig  
+💼 [LinkedIn](https://www.linkedin.com/in/oliver-gottberg-348043271/)  
+
