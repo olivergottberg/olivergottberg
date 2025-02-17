@@ -11,6 +11,9 @@
 🔹 **[SQL](https://github.com/dittrepo)** – SQL
 🔹 **[Java](https://github.com/dittrepo)** – Väderapplikation
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=olivergottberg&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olivergottberg&layout=compact&theme=tokyonight)
+
 ### 📫 Kontakta mig  
 💼 [LinkedIn](https://www.linkedin.com/in/oliver-gottberg-348043271/)  
 
