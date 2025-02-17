@@ -8,10 +8,10 @@
 <hr>
 
 ### 📌 Mina projekt  
-🔹 **[Miljöboven](https://github.com/dittrepo)** – .NET-applikation för miljöbrottsanmälan <br>
-🔹 **[Chatapplikation](https://github.com/dittrepo)** – Chatapplikation som utvecklats med designmönster <br>
+🔹 **[Miljöboven](https://github.com/olivergottberg/Miljoboven)** – .NET-applikation för anmälan av miljöbrott <br>
+🔹 **[Chatapplikation](https://github.com/olivergottberg/Chat)** – Chatt-applikation som utvecklats med designmönster <br>
 🔹 **[SQL](https://github.com/dittrepo)** – SQL <br>
-🔹 **[Java](https://github.com/dittrepo)** – Väderapplikation <br>
+🔹 **[Java](https://github.com/olivergottberg/WeatherData)** – Terminalbaserad väderapplikation i Java <br>
 
 <hr>
 
