@@ -10,7 +10,7 @@
 ### 📌 Mina projekt  
 🔹 **[Miljöbrott](https://github.com/olivergottberg/Miljobrott)** – .NET-applikation för anmälan av miljöbrott <br>
 🔹 **[Chatapplikation](https://github.com/olivergottberg/Chat)** – Chatt-applikation som utvecklats med designmönster <br>
-🔹 **[SQL](https://github.com/olivergottberg/SQL)** – SQL <br>
+🔹 **[SQL](https://github.com/olivergottberg/SQL)** – Ett ordersystem för en webbshop som säljer apoteksvaror <br>
 🔹 **[Java](https://github.com/olivergottberg/WeatherData)** – Terminalbaserad väderapplikation i Java <br>
 
 <hr>
