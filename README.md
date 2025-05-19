@@ -8,9 +8,9 @@
 <hr>
 
 ### 📌 Mina projekt  
-🔹 **[Miljöboven](https://github.com/olivergottberg/Miljobrott)** – .NET-applikation för anmälan av miljöbrott <br>
+🔹 **[Miljöbrott](https://github.com/olivergottberg/Miljobrott)** – .NET-applikation för anmälan av miljöbrott <br>
 🔹 **[Chatapplikation](https://github.com/olivergottberg/Chat)** – Chatt-applikation som utvecklats med designmönster <br>
-🔹 **[SQL](https://github.com/dittrepo)** – SQL <br>
+🔹 **[SQL](https://github.com/olivergottberg/SQL)** – SQL <br>
 🔹 **[Java](https://github.com/olivergottberg/WeatherData)** – Terminalbaserad väderapplikation i Java <br>
 
 <hr>
